@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x5Fe53d19f2E398026f0E69Fb19D4f965BF269e56",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5Fe53d19f2E398026f0E69Fb19D4f965BF269e56",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "Astro Otters",
+  "SYMBOL": "ACORC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cuteottersrehabcenter1",
   "SHOW_BACKGROUND": true
 }

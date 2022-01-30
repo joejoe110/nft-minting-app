@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x5Fe53d19f2E398026f0E69Fb19D4f965BF269e56",
-  "SCAN_LINK": "https://polygonscan.com/token/0x5Fe53d19f2E398026f0E69Fb19D4f965BF269e56",
+  "CONTRACT_ADDRESS": "0x1Ee83E25B30c58A2AAbb6137Bf3F169Bbfc9433f",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1Ee83E25B30c58A2AAbb6137Bf3F169Bbfc9433f",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Astro Otters",
   "SYMBOL": "ACORC",
-  "MAX_SUPPLY": 500,
+  "MAX_SUPPLY": 259,
   "WEI_COST": 15000000000000000000,
   "DISPLAY_COST": 15,
   "GAS_LIMIT": 285000,
